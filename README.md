@@ -5,23 +5,18 @@
 ---
 
 ### 🔧 Skills & Technologies
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=plastic&logo=php&logoColor=white&labelColor=777BB4&color=777BB4" />
-  <img src="https://img.shields.io/badge/-Laravel-EF3B2D?style=plastic&logo=laravel&logoColor=white&labelColor=EF3B2D&color=EF3B2D" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED" />
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=plastic&logo=mysql&logoColor=white&labelColor=F29111&color=F29111" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
 
 ### 📌 About Me
-- Backend developer specialized in **Laravel** & **PHP**  
-- Experienced with **Docker**, containers & DevOps basics  
-- Focused on scalable architectures and high-quality API design  
-- Passionate about clean code, automation, and backend engineering  
+- Backend developer specialized in **Laravel & PHP**
+- Experienced with **Docker** and backend infrastructures  
+- Passionate about clean, scalable backend architecture  
 
 ---
-
-### 📫 Contact
-*(Tell me if you want your email, GitHub, LinkedIn, or website added here.)*
